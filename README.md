@@ -5,8 +5,12 @@ Hello! I am a Software Engineer/Sound Engineer who enjoys being immersed in a cr
 As a skilled Sound Engineer I'm proficient in Pro Tools, Logic Pro X, Reason, various recording consoles, and Final Cut Pro. I am a strong business development professional with a Bachelor of Science and interested to see how it will supplement my career as a skilled programmer. These experiences, along with my past successes in management will allow me to take on any task on any team.
 
 ## Languages & Tools
+
+## Reach out to me, I look forward to meeting you:
 <img align="left" alt="Visual Studio Code" width="26px"
-src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%;"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"><img align="left" alt="HTML5" width="26px"
+src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%;">
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"><img align="left" alt="HTML5" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"><img align="left" alt="React" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"><img align="left" alt="Node" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"><img align="left" alt="Python" width="26px"
