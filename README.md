@@ -2,6 +2,7 @@
 # Dez Adkins || Fullstack Software Engineer
 
 Hello! I am a Software Engineer/Sound Engineer who enjoys being immersed in a creatively charged atmosphere,  who's passionate about the creative process and learning new technologies. I recently graduated from App Academy’s Full-Stack Software Engineering course, where I have gained experience with Vanilla JS, HTML, CSS, React.js, Redux.js, Express.js, PUG, Python, and more.
+</br>
 As a skilled Sound Engineer I'm proficient in Pro Tools, Logic Pro X, Reason, various recording consoles, and Final Cut Pro. I am a strong business development professional with a Bachelor of Science and interested to see how it will supplement my career as a skilled programmer. These experiences, along with my past successes in management will allow me to take on any task on any team.
 
 
