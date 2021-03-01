@@ -1,6 +1,6 @@
 
 # Dez Adkins || Fullstack Software Engineer
---------------------------------------------------------------------
+
 Hello! I am a Software Engineer/Sound Engineer who enjoys being immersed in a creatively charged atmosphere,  who's passionate about the creative process and learning new technologies. I recently graduated from App Academy’s Full-Stack Software Engineering course, where I have gained experience with Vanilla JS, HTML, CSS, React.js, Redux.js, Express.js, PUG, Python, and more.
 As a skilled Sound Engineer I'm proficient in Pro Tools, Logic Pro X, Reason, various recording consoles, and Final Cut Pro. I am a strong business development professional with a Bachelor of Science and interested to see how it will supplement my career as a skilled programmer. These experiences, along with my past successes in management will allow me to take on any task on any team.
 
@@ -18,9 +18,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;"><img align="left" alt="Docker" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;">
 
-
-## GitHub Stats
+--------------------------------------------------------------------
+### GitHub Stats
 [![Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezadkins)](https://github.com/dezadkins/github-readme-stats)
 
-## Most Used Languages
+### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezadkins&layout=compact)](https://github.com/dezadkins/github-readme-stats)
