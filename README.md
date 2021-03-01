@@ -8,7 +8,7 @@ As a skilled Sound Engineer I'm proficient in Pro Tools, Logic Pro X, Reason, va
 
   ## Reach out to me, I look forward to meeting you:
 <img align="left" alt="Visual Studio Code" width="26px"
-src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%;"/>   
+src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%;"/><br/>   
 
   ## Languages & Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"><img align="left" alt="HTML5" width="26px"
