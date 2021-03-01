@@ -18,4 +18,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;"><img align="left" alt="Docker" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezadkins)](https://github.com/dezadkins/github-readme-stats)
+
+GitHub Stats
+[![Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezadkins)](https://github.com/dezadkins/github-readme-stats)
+
+Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezadkins&layout=compact)](https://github.com/dezadkins/github-readme-stats)
