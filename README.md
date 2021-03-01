@@ -25,10 +25,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
   ### GitHub Stats
-  <details closed>
+  <details>
     [Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezadkins)](https://github.com/dezadkins/github-readme-stats)
   </details>
   ### Most Used Languages
-  <details closed
+  <details>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezadkins&langs_count=8)](https://github.com/dezadkins/github-readme-stats)>
   </details>
