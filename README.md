@@ -7,7 +7,7 @@ As a skilled Sound Engineer I'm proficient in Pro Tools, Logic Pro X, Reason, va
 
 
   ## Hit me up, I look forward to meeting you:
-[![linkedin]<img align="left" alt="Visual Studio Code" width="26px "
+[!<img align="left" alt="Visual Studio Code" width="26px "
 src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="max-width:100%,color: light-blue;"/>](https://www.linkedin.com/in/desmond-adkins-64981a36/)<br/>   
 
   ## Languages & Tools
@@ -24,11 +24,10 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;"/><br/> 
 
 
-  ## GitHub Stats
+
   
-    [Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezadkins)](https://github.com/dezadkins/github-readme-stats)
- 
-  ## Most Used Languages
+   ## Most Used Languages
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
   
