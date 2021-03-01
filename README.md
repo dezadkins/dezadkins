@@ -25,10 +25,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
   ### GitHub Stats
-  <details open>
-[![Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezadkins)](https://github.com/dezadkins/github-readme-stats)
+  <details closed>
+    [![Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezadkins)](https://github.com/dezadkins/github-readme-stats)
   </details>
   ### Most Used Languages
   <details open>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezadkins&layout=compact)](https://github.com/dezadkins/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezadkins&layout=compact)](https://github.com/dezadkins/github-readme-stats)
   </details>
