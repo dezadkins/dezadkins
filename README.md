@@ -25,8 +25,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;"/><br/> 
 
 
-   ## GitHub Stats
-   ![Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezadkins&show_icons=true&theme=gruvbox)
+  
   
    ## Most Used Languages
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
