@@ -1,5 +1,5 @@
 
-# Dez Adkins || Fullstack Software Engineer || CSM
+# Dez Adkins || Fullstack Software Engineer ||
 
 Hello! I am a Software Engineer/Sound Engineer who enjoys being immersed in a creatively charged atmosphere,  who's passionate about the creative process and learning new technologies. I recently graduated from App Academy’s Full-Stack Software Engineering course, where I have gained experience with Vanilla JS, HTML, CSS, React.js, Redux.js, Express.js, PUG, Python, and more.
 </br>
